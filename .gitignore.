@@ -1,0 +1,3 @@
+# gitignore para evitar subir los archivos de training muy grandes
+model2/test.scv
+model2/training.csv
